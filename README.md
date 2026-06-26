@@ -202,4 +202,6 @@ Instead of switching between different tools, students can receive targeted guid
 
 ## Developer
 
+**Saraswati Kumari**
 Developed as part of the Google × Kaggle Agentic AI Capstone Project using Google ADK and Gemini 2.5 Flash
+
