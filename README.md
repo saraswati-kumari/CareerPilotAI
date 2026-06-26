@@ -48,6 +48,16 @@ Routing Logic
 - Project recommendation queries → ProjectAgent
 - Mock interview and interview preparation queries → InterviewAgent
 
+
+CareerPilotAI/
+│
+├── career_pilot/
+├── Screenshots/
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
 ---
 
 ## Key Features
@@ -213,7 +223,7 @@ Technical Interview Simulation
 
 CareerPilot AI simplifies placement preparation by bringing multiple career-support services into a single intelligent platform.
 
-Instead of switching between different tools, students can receive targeted guidance through specialized AI agents designed for specific career development tasks.
+reduces the need for multiple career platforms by providing a unified AI-powered assistant.
 
 ---
 
