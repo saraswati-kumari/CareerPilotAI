@@ -1,0 +1,12 @@
+ Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+_pycache_/
+*.pyc
+
+# ADK cache
+.adk/
