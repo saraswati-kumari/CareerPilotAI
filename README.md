@@ -106,7 +106,9 @@ InterviewAgent
 Clone the repository:
 
 ```bash
-git clone <your-github-repository-url>
+git clone git clone https://github.com/saraswati-kumari/CareerPilotAI
+cd CareerPilotAI
+
 cd CareerPilotAI
 ```
 
