@@ -6,6 +6,13 @@ CareerPilot AI is a multi-agent career guidance system built using Google Agent 
 
 The platform helps students prepare for placements by providing specialized assistance for resumes, DSA preparation, project selection, and interview practice through dedicated AI agents.
 
+
+## Capstone Track
+
+**Concierge Agents**
+
+CareerPilot AI is submitted under the Concierge Agents track, providing personalized AI-powered career guidance for students preparing for placements.
+
 ---
 
 ## Problem Statement
@@ -80,6 +87,16 @@ InterviewAgent
 - Python
 - Google Agent Development Kit (ADK)
 - Gemini 2.5 Flash
+
+
+## Course Concepts Demonstrated
+
+✅ Multi-Agent System using Google ADK
+
+✅ Security Features (.env, .gitignore)
+
+✅ Agent Skills using ADK CLI
+
 
 
 ## Security Features
