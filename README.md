@@ -49,7 +49,11 @@ Routing Logic
 - Mock interview and interview preparation queries → InterviewAgent
 
 
-CareerPilotAI/
+
+## Project Structure 
+
+
+# CareerPilotAI/
 │
 ├── career_pilot/
 ├── Screenshots/
