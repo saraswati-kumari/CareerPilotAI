@@ -53,7 +53,7 @@ Routing Logic
 ## Project Structure 
 
 
-# CareerPilotAI/
+CareerPilotAI/
 │
 ├── career_pilot/
 ├── Screenshots/
